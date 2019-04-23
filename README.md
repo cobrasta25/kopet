@@ -1,2 +1,4 @@
-# kopet
-weduz
+AUTOSCRIPT DEBIAN 9
+===================
+
+
